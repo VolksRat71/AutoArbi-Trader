@@ -1,6 +1,6 @@
 ## <p align="center">🏆 [2nd Place](https://devpost.com/software/auto-arbi-trader) in [Anvil Challenge](https://developerweek-2021-hackathon.devpost.com/) for DeveloperWeek 2021 🏆</p>
 
-<p align="center">🎉 TypingDNA Platinum Badge 🎉 for being one of our top users in quality of implementation, dedication and performance!</p>
+<p align="center">🎉 TypingDNA Platinum Badge 🎉 for being one of the top entries in quality of implementation, dedication and performance!</p>
 
 ### <p align="center"><img width="40%" src="./client/src/images/platinum.png"></p>
 
