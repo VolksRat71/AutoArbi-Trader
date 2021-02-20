@@ -2,7 +2,7 @@
 
 <div align="center">
     <h5>⬇️ Click here to see out elevator pitch on YouTube! ⬇️</h5>
-    <a href="https://www.youtube.com/watch?v=OKOavxCVfiU">
+    <a href="https://www.youtube.com/watch?v=OKOavxCVfiU" target="_blank">
         <img width="60%" src="https://img.youtube.com/vi/OKOavxCVfiU/0.jpg">
     </a>
 </div>
