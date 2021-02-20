@@ -1,7 +1,7 @@
-# <p align="center">🏆 2nd Place in [Anvil Challenge](https://developerweek-2021-hackathon.devpost.com/) Developer Week 2021 🏆</p>
+## <p align="center">🏆 [2nd Place](https://devpost.com/software/auto-arbi-trader) in [Anvil Challenge](https://developerweek-2021-hackathon.devpost.com/) for Developer Week 2021 🏆</p>
 
 <div align="center">
-    <p>Click here to see out elevator pitch on YouTube!</p>
+    <h5>⬇️ Click here to see out elevator pitch on YouTube! ⬇️</h5>
     <a href="https://www.youtube.com/watch?v=OKOavxCVfiU">
         <img width="60%" src="https://img.youtube.com/vi/OKOavxCVfiU/0.jpg">
     </a>
