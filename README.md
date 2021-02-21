@@ -1,11 +1,15 @@
-## <p align="center">🏆 [2nd Place](https://devpost.com/software/auto-arbi-trader) in [Anvil Challenge](https://developerweek-2021-hackathon.devpost.com/) for DeveloperWeek 2021 🏆</p>
+## <p align="center">🏆 2nd Place in [Anvil Challenge](https://developerweek-2021-hackathon.devpost.com/) for DeveloperWeek 2021 🏆</p>
 
 <div align="center">
     <h5>⬇️ Click here to see out elevator pitch on YouTube! ⬇️</h5>
     <a href="https://www.youtube.com/watch?v=OKOavxCVfiU">
-        <img width="60%" src="https://img.youtube.com/vi/OKOavxCVfiU/0.jpg">
+        <img width="60%" src="./client/src/images/MobileDemo.gif">
     </a>
 </div>
+
+<p align="center">
+    <a href="https://desolate-hollows-77552.herokuapp.com/">Deployed App Link</a> &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://devpost.com/software/auto-arbi-trader">DevPost Entry Link</a>
+</p>
 
 ![Auto Arbitrader Logo](https://raw.githubusercontent.com/Archivaldi/AutoArbi-Trader/master/client/src/images/LogoWithWords.png)
 
