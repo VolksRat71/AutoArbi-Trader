@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-    <a href="https://desolate-hollows-77552.herokuapp.com/">Deployed App Link</a> &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://devpost.com/software/auto-arbi-trader">DevPost Entry Link</a>
+    <a href="https://desolate-hollows-77552.herokuapp.com/">Deployed App Link</a> &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://devpost.com/software/auto-arbi-trader">DevPost Entry Link</a>  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.useanvil.com/blog/2021-03-02-developer-week-hackathon-winners#auto-arbi-trader---anvil-hackathon-runner-up">Anvil Blog Feature</a>
 </p>
 
 ![Auto Arbitrader Logo](https://raw.githubusercontent.com/Archivaldi/AutoArbi-Trader/master/client/src/images/LogoWithWords.png)
