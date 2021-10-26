@@ -23,7 +23,7 @@ The process of buying and selling vehicles privately is painstaking. As engineer
 
 ## What it does
 
-What we have is a microservice. After hours and hours of considering what is required to complete a vehicle sale transaction, we were able to create an application that allows the user to signup, use the account, then dispose of it after all the necessary paperwork has been filed and archived in your personal email.
+After hours and hours of considering what is required to complete a vehicle sale transaction, we were able to create an application that allows the user to signup, use the account, then dispose of it after all the necessary paperwork has been filed and archived in your personal email.
 
 We designed a login process for all those times when filling out forms, you realize you are missing a piece of information. You may sign out and sign back in to complete your form.
 
