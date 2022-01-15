@@ -56,3 +56,8 @@ Where to start here... We overcame some pretty great obstacles here. Since we ar
 ## What's next for Auto Arbi-Trader
 
 There are a few hurdles left to face, including getting state governments to process the idea. The DMV would need to be able to verify the integrity of documents. We would like to be able to upload a title, government ID & bill of sale to prefill user information using machine learning. We would also need to incorporate microservice fees, and fund withholding and transferring according to transaction status.
+
+
+<p align="center">
+| <a href="tel:5035047581">(503)504-7581</a> || <a href="mailto:nathanieljryan1994@gmail.com">nathanieljryan1994@gmail.com</a> || <a href="https://www.linkedin.com/in/nathanieljryan/">LinkedIn</a> |
+</p>
